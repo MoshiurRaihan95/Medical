@@ -1,0 +1,37 @@
+
+/*=========Start Global css =============*/
+a:focus, a:hover{
+    text-decoration: none ;
+}
+/*===End Global css===*/
+
+
+/*=========Start top bar css =============*/
+.top_bar{
+    background-color: #00A4EF;
+}
+.top_bar .contact-info a{
+    color: white;
+    margin-right: 25px;
+}
+.top_bar .contact-info{
+    padding: 14px 0 0 0;
+}
+.top_bar .login_signup ul li a{
+    color: white;
+}
+.top_bar .login_signup ul li a:hover,.top_bar .login_signup ul li a:focus{
+    background: none;
+}
+/*===End top bar css===*/
+.header{
+    background-color: #a0a0a0;
+    border: 0;
+    padding: 4px;
+}
+.header a{
+    color: white;
+}
+.header .collapse ul li a{
+    color: white;
+}
